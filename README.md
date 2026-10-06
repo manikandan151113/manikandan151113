@@ -27,7 +27,7 @@ I enjoy building purposeful, reliable software—from low-level Android telephon
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-`Kotlin` • `Python` • `TypeScript` • `JavaScript` • `SQL` • `Bash`
+ `Python`   • `SQL` 
 
 ### Mobile & Systems Development
 * **Platform & SDK:** Android SDK (API Levels 24 through 36), Native Android Architecture
